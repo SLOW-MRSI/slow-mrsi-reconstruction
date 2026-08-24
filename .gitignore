@@ -1,0 +1,15 @@
+# Raw MRI/scanner data
+*.dat
+*.twix
+
+# Generated MATLAB data and exports
+*.mat
+processedData/
+data4spectrIm/
+
+# MATLAB and operating-system files
+*.asv
+*.m~
+*.mex*
+.DS_Store
+Thumbs.db
