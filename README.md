@@ -21,8 +21,6 @@ The scripts create `processedData/` and `data4spectrIm/` locally. These generate
 
 - `Run_02_map.m` produces draft peak-integration maps for quality control and region-of-interest selection; it is not a replacement for quantitative spectral fitting.
 - The code expects MATLAB with the toolboxes required by the functions used in the scripts. Parallel execution can be disabled in `Run_01_recon.m` if needed.
-- The `mapVBVD.m` and `twix_map_obj.m` files retain upstream attribution in their headers. Check the upstream licensing/redistribution terms and your institutional policy before publishing this repository.
-- Do not commit identifiable participant data, raw scanner files, or generated `.mat`/DICOM outputs.
 
 ## Author
 
